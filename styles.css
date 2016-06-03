@@ -1,0 +1,11 @@
+#generateBtn {
+  align-self: center;
+  background-color: #AA5599;
+  height: 50px;
+  width: 100px;
+}
+
+.buttonContainer {
+  text-align: center;
+  background-color: #F0E68C;
+}
